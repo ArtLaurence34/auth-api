@@ -16,7 +16,7 @@ Node.js + MySQL authentication REST API.
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/TheresaFCastillo/auth-api.git
+   git clone https://github.com/ArtLaurence34/auth-api.git
    cd auth-api
    ```
 
