@@ -38,7 +38,7 @@ const PORT = process.env.PORT || 4000;
 
 db.authenticate()
     .then(() => {
-        console.log('Database connected successfully');
+        console.log('Database connected successfully'); 
         app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));
     })
     .catch(err => {
